@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.css-e1l8xd-MuiFormControl-root-MuiTextField-root{
+  max-width: 40% !important;
+}
+.css-i4bv87-MuiSvgIcon-root {
+display: none;
+}
